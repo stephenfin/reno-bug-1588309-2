@@ -1,0 +1,6 @@
+---
+other:
+  - |
+    Sphinx now uses `reno`_ for release note management.
+
+    .. _reno: https://pypi.python.org/pypi/reno
