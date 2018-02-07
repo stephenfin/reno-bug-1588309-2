@@ -6,4 +6,13 @@
 Welcome to Reno Test's documentation!
 =====================================
 
+Current release
+---------------
+
 .. release-notes::
+
+1.0 release
+-----------
+
+.. release-notes::
+   :branch: stable/1.0
