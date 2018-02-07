@@ -1,0 +1,1 @@
+sphinx-build -W -b html docs/source docs/build/html $@
